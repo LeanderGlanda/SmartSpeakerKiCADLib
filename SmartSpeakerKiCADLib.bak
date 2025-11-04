@@ -17394,7 +17394,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint:WSON-6_L2.0-W2.0-P0.65-BL-EP"
+		(property "Footprint" "SmartSpeakerKiCADLib:WSON-6_L2.0-W2.0-P0.65-BL-EP"
 			(at 0 -10.16 0)
 			(effects
 				(font
