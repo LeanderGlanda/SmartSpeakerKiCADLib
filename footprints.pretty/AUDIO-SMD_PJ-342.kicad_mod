@@ -200,7 +200,7 @@
 			(width 0.254001)
 			(type solid)
 		)
-		(layer "Edge.Cuts")
+		(layer "F.Fab")
 		(uuid "f96be2cd-de8e-427f-9ebb-b224c9aeb1f3")
 	)
 	(fp_line
@@ -210,7 +210,7 @@
 			(width 0.254001)
 			(type solid)
 		)
-		(layer "Edge.Cuts")
+		(layer "F.Fab")
 		(uuid "443db24e-15f2-46b0-86b1-15af27b7e5e2")
 	)
 	(fp_line
@@ -220,7 +220,7 @@
 			(width 0.254001)
 			(type solid)
 		)
-		(layer "Edge.Cuts")
+		(layer "F.Fab")
 		(uuid "d120b70b-d82c-402a-a589-1923273be295")
 	)
 	(fp_line
@@ -230,7 +230,7 @@
 			(width 0.254001)
 			(type solid)
 		)
-		(layer "Edge.Cuts")
+		(layer "F.Fab")
 		(uuid "a96809bc-1169-4f1f-b0b9-bfdad9d4d380")
 	)
 	(fp_line
@@ -240,7 +240,7 @@
 			(width 0.254001)
 			(type solid)
 		)
-		(layer "Edge.Cuts")
+		(layer "F.Fab")
 		(uuid "cc4d13d4-30a6-4962-a860-ff8d5cee40b7")
 	)
 	(fp_circle

@@ -15685,63 +15685,6 @@
 					(type background)
 				)
 			)
-			(pin power_in line
-				(at -13.97 2.54 0)
-				(length 5.08)
-				(hide yes)
-				(name "VBUS"
-					(effects
-						(font
-							(size 1 1)
-						)
-					)
-				)
-				(number "C2"
-					(effects
-						(font
-							(size 1 1)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at -13.97 2.54 0)
-				(length 5.08)
-				(hide yes)
-				(name "VBUS"
-					(effects
-						(font
-							(size 1 1)
-						)
-					)
-				)
-				(number "D2"
-					(effects
-						(font
-							(size 1 1)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at -13.97 2.54 0)
-				(length 5.08)
-				(hide yes)
-				(name "VBUS"
-					(effects
-						(font
-							(size 1 1)
-						)
-					)
-				)
-				(number "E1"
-					(effects
-						(font
-							(size 1 1)
-						)
-					)
-				)
-			)
 			(pin input line
 				(at -13.97 -2.54 0)
 				(length 5.08)
@@ -15914,7 +15857,7 @@
 			(pin power_in line
 				(at -13.97 2.54 0)
 				(length 5.08)
-				(name "VBUS/IN"
+				(name "IN"
 					(effects
 						(font
 							(size 1 1)
@@ -15933,7 +15876,64 @@
 				(at -13.97 2.54 0)
 				(length 5.08)
 				(hide yes)
-				(name "VBUS"
+				(name "IN"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "C2"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -13.97 2.54 0)
+				(length 5.08)
+				(hide yes)
+				(name "IN"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "D2"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -13.97 2.54 0)
+				(length 5.08)
+				(hide yes)
+				(name "IN"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+				(number "E1"
+					(effects
+						(font
+							(size 1 1)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -13.97 2.54 0)
+				(length 5.08)
+				(hide yes)
+				(name "IN"
 					(effects
 						(font
 							(size 1 1)
@@ -15951,7 +15951,7 @@
 			(pin power_out line
 				(at 13.97 2.54 180)
 				(length 5.08)
-				(name "VINT/OUT"
+				(name "VINT"
 					(effects
 						(font
 							(size 1 1)
